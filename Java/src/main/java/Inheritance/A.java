@@ -5,7 +5,7 @@ public class A {
 	
 	public void Show() {
 		
-		System.out.println("Parent class of SHOW METHOD");
+		System.out.println("PARENT OF CLASS SHOW METHOD");
 	}
 	
 	
